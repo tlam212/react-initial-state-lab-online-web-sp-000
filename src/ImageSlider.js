@@ -9,7 +9,7 @@ export default class ImageSlider extends React.Component{
     }
   }
   
-  increment = () => {
+  increment() = {
     this.setState = ({
       currentSlideIndex = this.state.currentSlideIndex + 1
     })
