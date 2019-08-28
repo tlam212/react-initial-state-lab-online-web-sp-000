@@ -8,6 +8,13 @@ export default class ImageSlider extends React.Component{
       currentSlideIndex: 0
     }
   }
+  
+  increment = () => {
+    
+    this.setState = ({
+      
+    })
+  }
   render(){
     return
   }
