@@ -17,8 +17,8 @@ export default class ImageSlider extends React.Component{
   
   render(){
     return (
-      <div >
-      
+      <div onChange={this.increment}>
+        I am on slide {this.
       </div>
       )
   }
